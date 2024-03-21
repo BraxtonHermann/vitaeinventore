@@ -1,0 +1,33 @@
+{
+  "name": "vitaeinventore",
+  "version": "1.0.0",
+  "description": "Brunch plugin to turn ES6 code into vanilla ES5 with no runtime required.",
+  "author": "KirkFerry",
+  "homepage": "https://github.com/BraxtonHermann/vitaeinventore.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BraxtonHermann/vitaeinventore.git"
+  },
+  "keywords": [
+    "brunch",
+    "quia",
+    "enim",
+    "incidunt",
+    "nostrum",
+    "es5",
+    "et"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "6to5": "^2.0.0",
+    "anymatch": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "1.x"
+  },
+  "bugs": {
+    "url": "https://github.com/BraxtonHermann/vitaeinventore.git/issues"
+  }
+}
